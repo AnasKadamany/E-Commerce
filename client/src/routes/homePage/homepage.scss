@@ -1,0 +1,22 @@
+.homePageContainer{
+    .categoryHeaderContainer{
+        display: flex;
+        justify-content: space-around;
+
+        .CategoryHeader{
+            display: flex;
+            justify-content: center;
+            padding-left: 8rem;
+            flex-direction: column;
+            
+            p{
+                margin: 0;
+                margin-bottom: 1rem;
+                font-size: small;
+            }
+        }
+        .heroImgContainer{
+            
+        }
+    }
+}
